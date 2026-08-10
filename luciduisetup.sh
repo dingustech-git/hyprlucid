@@ -19,13 +19,13 @@ sudo rm -r ~/.config/swaync
 sudo rm -r ~/.config/waybar
 sudo rm -r ~/.config/wofi
 sudo rm -r ~/.config/wlogout
-cp -r fastfetch ~/.config/fastfetch
-cp -r hypr ~/.config/hypr
-cp -r kitty ~/.config/kitty
-cp -r swaync ~/.config/swaync
-cp -r waybar ~/.config/waybar
-cp -r wofi ~/.config/wofi
-cp -r wlogout ~/.config/wlogout
+cp -r fastfetch ~/.config/
+cp -r hypr ~/.config/
+cp -r kitty ~/.config/
+cp -r swaync ~/.config/
+cp -r waybar ~/.config/
+cp -r wofi ~/.config/
+cp -r wlogout ~/.config/
 cp -r Wallpaper ~/Wallpaper
 mkdir ~/.icons
 cp -r bibata ~/.icons
