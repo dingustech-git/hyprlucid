@@ -1,4 +1,18 @@
 ![The lucid UI 4 icon](lucidui4-icon.png)
+# lucidUI 4.1
+lucidUI 4.1 is both a small and big release at the same time
+## lucidUI has been lua-ified
+That's right! The config files for lucidUI have fully been migrated to Lua\
+This is to ensure that lucidUI continues to work after the release of Hyprland 0.57\
+The configs are now split into their own config files such as `animations.lua`, this makes lucidUI far less messy and makes it more modular
+## Other improvements
+The window corners are now tighter\
+Some colours have been changed\
+The lock button in the dashboard has been replaced with a sleep button\
+Other than that, this release is mostly about lua-ifying lucidUI\
+>lucidUI 4.1
+> 11th August 2026
+![The lucid UI 4 icon](lucidui4-icon.png)
 # lucidUI 4
 lucidUI 4 brings several new changes system-wide
 ## A new name
