@@ -5,6 +5,10 @@ lucidUI 4.1 is both a small and big release at the same time
 That's right! The config files for lucidUI have fully been migrated to Lua\
 This is to ensure that lucidUI continues to work after the release of Hyprland 0.57\
 The configs are now split into their own config files such as `animations.lua`, this makes lucidUI far less messy and makes it more modular
+## The install script actually works now!
+The install script was broken\
+Now it should work\
+If you use Arch, the script will now also install all the needed tools if they are not already installed
 ## Other improvements
 The window corners are now tighter\
 Some colours have been changed\
