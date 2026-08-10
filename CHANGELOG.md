@@ -14,7 +14,7 @@ The window corners are now tighter\
 Some colours have been changed\
 The lock button in the dashboard has been replaced with a sleep button\
 Other than that, this release is mostly about lua-ifying lucidUI\
->lucidUI 4.1
+>lucidUI 4.1\
 > 11th August 2026
 ![The lucid UI 4 icon](lucidui4-icon.png)
 # lucidUI 4
