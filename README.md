@@ -1,5 +1,5 @@
 # IMPORTANT
-lucidUI 4 and all previous versions will lose support starting with Hyprland 0.55\
+lucidUI 4 and all previous versions will lose support starting with Hyprland 0.57\
 This is due to Hyprland switching from fhe `.conf` format for it's configs to `.lua`\
 lucidUI 4.1, Hyprlucid 3.1 and Hyprlucid 2.3 will port the config from `.conf` to `.lua` and will not feature and significant changes
 ![The lucid UI 4 icon](lucidui4-icon.png)
