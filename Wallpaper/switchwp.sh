@@ -1,4 +1,4 @@
-#!/run/current-system/sw/bin/bash
+#!/bin/bash
 echo Enter the number for the wallpaper you would like
 read wpnum
 rm ~/Wallpaper/wp.png
