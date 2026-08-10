@@ -18,25 +18,25 @@ Other than that, this release is mostly about lua-ifying lucidUI\
 > 11th August 2026\
 
 ![The lucid UI 4 icon](lucidui4-icon.png)
-# lucidUI 4
+## lucidUI 4
 lucidUI 4 brings several new changes system-wide
-## A new name
+### A new name
 Hyprlucid is now lucidUI
 ## Design Upgrades
 Parts of the design have been given a facelift
-## Redesigned Launcher
+### Redesigned Launcher
 The Launcher has been redesigned, bringing a cleaner look
-## Improved Animations
+### Improved Animations
 The animations are now more fluid and bouncy
-## Redesigned lock screen
+### Redesigned lock screen
 The lock screen now features a more minimalist look
-## Power Options
+### Power Options
 Pressing CTRL + ALT + DEL at any time reveals the Power Options, showing options like:\
 Lock
 Logout
 Reboot
 Power Off
-## Install Script
+### Install Script
 lucidUI can now be installed faster with the new install script
 > lucidUI 4.0\
 > 1st July 2026
