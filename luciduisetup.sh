@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 echo lucidUI Setup
 sleep 1
 echo Your current config will be replaced
