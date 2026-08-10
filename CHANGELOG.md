@@ -9,6 +9,8 @@ The configs are now split into their own config files such as `animations.lua`, 
 The install script was broken\
 Now it should work\
 If you use Arch, the script will now also install all the needed tools if they are not already installed
+## New set of wallpapers
+lucidUI 4.1 includes a new collection of beutiful wallpapers, in addition to the default wallpaper from Hyprlucid 3, lucidUI 4 and lucidUI 4.1\
 ## Other improvements
 The window corners are now tighter\
 Some colours have been changed\
