@@ -3,9 +3,9 @@
 # lucidUI
 (Formerly Hyprlucid)\
 ## Supported distros
-Arch/Arch based `works perfectly`
-Artix `mostly fine but things regarding power/reboot/sleep need tweaking`
-NixOS `works decently`
+Arch/Arch based `works perfectly`\
+Artix `mostly fine but things regarding power/reboot/sleep need tweaking`\
+NixOS `works decently`\
 Debian/Ubuntu based `Unsupported`
 ## Pre-Installation
 The following tools are required for lucidUI\
