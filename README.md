@@ -2,7 +2,11 @@
 ![The lucid UI 4 icon](lucidui4-icon.png)
 # lucidUI
 (Formerly Hyprlucid)\
-Note: lucidUI runs best on Arch (or Arch-based) and NixOS
+## Supported distros
+Arch/Arch based `works perfectly`
+Artix `mostly fine but things regarding power/reboot/sleep need tweaking`
+NixOS `works decently`
+Debian/Ubuntu based `Unsupported`
 ## Pre-Installation
 The following tools are required for lucidUI\
 Please make sure they're installed before doing anything\
