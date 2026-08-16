@@ -1,7 +1,10 @@
 
 ![The lucid UI 4 icon](lucidui4-icon.png)
-# lucidUI
-(Formerly Hyprlucid)\
+# LucidUI
+(Formerly Hyprlucid)
+## Note
+LucidUI 4.1 will release soon, it will upgrade LucidUI to Lua\
+4.1 will be the last release of LucidUI
 ## Supported distros
 Arch/Arch based `works perfectly`\
 Artix `mostly fine but things regarding power/reboot/sleep need tweaking`\
