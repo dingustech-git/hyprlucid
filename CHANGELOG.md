@@ -4,8 +4,7 @@ LucidUI 4.1 is both a small and big release at the same time
 ## LucidUI has been lua-ified
 That's right! The config files for LucidUI have fully been migrated to Lua\
 This is to ensure that LucidUI continues to work after the release of Hyprland 0.57\
-The configs are now split into their own config files such as `animations.lua`, this makes LucidUI far less messy and makes it more modular
-## The install script actually works now!
+The Hyprland configs are now split into their own config files such as `animations.lua`, this makes LucidUI far less messy and makes it more modular
 ## New set of wallpapers
 LucidUI 4.1 includes a new collection of beutiful wallpapers, in addition to the default wallpaper from Hyprlucid 3, lucidUI 4 and lucidUI 4.1\
 ## Niri support
