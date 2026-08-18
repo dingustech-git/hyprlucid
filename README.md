@@ -1,5 +1,5 @@
 
-![The lucid UI 4 icon](lucidui4-icon.png)
+![The lucid UI 4 icon](lucidui4-1-icon.png)
 # LucidUI
 (Formerly Hyprlucid)
 ## Note
