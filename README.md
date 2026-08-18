@@ -66,7 +66,7 @@ copy `bibata` into `~/.icons/`\
 copy everything else into `~/.config/`
 
 ## Keybinds
-When using lucidUI, it is important to learn these keybinds\
+When using LucidUI, it is important to learn these keybinds\
 `SUPER + Q: Terminal`\
 `SUPER + W: File Manager`\
 `SUPER + E: Browser (Firefox)`\
