@@ -1,4 +1,4 @@
-![The lucid UI 4 icon](lucidui4-icon.png)
+![The lucid UI 4 icon](lucidui4-1-icon.png)
 # LucidUI 4.1
 LucidUI 4.1 is both a small and big release at the same time
 ## LucidUI has been lua-ified
